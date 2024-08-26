@@ -1,0 +1,129 @@
+Veri Seti: leonardo.ai için
+Girişler:
+Gerçekçi
+Reality
+Realistic
+Gerçeğe yakın
+Gerçek
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+Realistic Photograph,Realism,High resolution 4K image,Detailed textures,Ultra-detailed,Photorealistic,Hyper-realistic,dynamic,high quality
+Girişler:
+*Anime
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*Digital art, anime illustration,highly detailed digital painting, artstation HQ,hyper-detailed painting,anime artwork,Created by renowned artists
+Girişler:
+*3D animasyon
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*3d render, octane render,8k resolution,3D effect
+Girişler:
+*Pastel
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*Pastel colors,pastel,pastel-hued,vibrant colors,painted with soft pastel colors
+Girişler:
+*Sanatsal
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*artistic setting,epic style of Bob Ross,Make it look epic and mystical,Compose it in a style inspired by Salvador Dali,eye-catching art,style of Tim Burton,style of Vincent van Gogh,style of Jack Kirby
+Girişler:
+*Sinematik
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*cinematic,photorealistic,dynamic composition,Cinematic Shot,dramatic-cinematic shot
+Girişler:
+*İnsan
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*fully focused depth of field,sharp focus,high-resolution image with fine details,ensuring every detail,Canon EOS R6 Mark II,focus human,highly detailed facial expressions,Kodak KE60,professional photography
+Girişler:
+*Hayvan
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*high detailed furs,high resolution,fully focused depth of field,sharp focus,focus on animal
+Girişler:
+*Nesne
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*Ultra detailed,depth of field,sharp focus, epic composition,Product Photography,
+Girişler:
+*Manzara
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*natural look,sharp focus, epic composition,Ethereal Landscapes,Vibrant Blooms,Abstract Horizons,Wildlife Wonderlands,high-definition clarity,Sweeping landscapes are flawlessly rendered,
+Girişler:
+*Merkezi Kompozisyon
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*centered composition,pose at center
+Girişler:
+*Geniş Açı
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*wide angle
+Girişler:
+*Yakın Plan
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*close-up shot
+Girişler:
+*Portre
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*portrait,portraiture
+Girişler:
+*Selfie
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*make image look like a selfie,selfie,
+Girişler:
+*Kuş Bakışı
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*overhead shot,Bird’s Eye View Shot
+Girişler:
+*Alçak Plan
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*Low Angle Shot
+Girişler:
+*Yüksek Plan
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*High Angle Shot
+Girişler:
+*Stüdyo Işığı
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*studio lighting, depth of field,studio light
+Girişler:
+*Yumuşak (Loş) Aydınlatma
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*soft lighting,soft light
+Girişler:
+*Doğal (Gün) Işığı
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*natural look,natural lighting,daylight,day lighting
+Girişler:
+*Neon Işıklar
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*Neon,neon lighting,neon lights
+Girişler:
+*Şehir Işıkları
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*city lights,city lighting
+Girişler:
+*Mum Işığı
+Çıktılar:
+(eğer yapay zeka aracı leonardo.ai seçildiyse)
+*ultra-detailed eye-catching candle lighting
+
+**Veri Seti:**midjourney(stability.ai) için
+
+**Girişler:*** Gerçekçi**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*Ultra-realistic,35mm film, DSLR, 50mm prime lens, high resolution,crystal clear,high quality,**Girişler:*** Anime**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*anime style,cartoon,manga style, anime still,Animestyle illustration**Girişler:*** 3D animasyon**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*3D,3D animation style,3D render**Girişler:*** Pastel**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*pastel colours,pastel-coloured,pastel style,pastel ink**Girişler:*** Sanatsal**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*artictic style,paint art,bob ross and van gogh style,various art styles**Girişler:*** Sinematik**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*cinematic,taken on a Canon EOS R5 F1.2 ISO100 35MM),cinematic production still,cinematography,photorealistic**Girişler:*** İnsan**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*high-resolution image with fine details,ensuring every detail,Canon EOS R6 Mark II,focus human,highly detailed facial expressions,Kodak KE60,professional photography**Girişler:*** Hayvan**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*high detailed furs,high resolution,fully focused depth of field,sharp focus,focus on animal**Girişler:*** Nesne**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*Ultra detailed,depth of field,sharp focus, epic composition,Product Photography**Girişler:*** Manzara**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*natural look,sharp focus, epic composition,Ethereal Landscapes,Vibrant Blooms,Abstract Horizons,Wildlife Wonderlands,high-definition clarity,Sweeping landscapes are flawlessly rendered**Girişler:*** Merkezi Kompozisyon**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*centered image composition,centered composition,pose at center**Girişler:*** Geniş Açı**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*wide angle,Wide-Angle Shot,Ultra-Wide Angle**Girişler:*** Yakın Plan**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*close-up shot**Girişler:*** Portre**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*portrait,Head shot,Glamorous portrait,High resolution portrait,Highly detailed portrait **Girişler:*** Selfie**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*make image look like a selfie,selfie**Girişler:*** Kuş Bakışı**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*overhead shot,Bird’s Eye View Shot**Girişler:*** Alçak Plan**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*Low Angle Shot**Girişler:*** Yüksek Plan**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*High Angle Shot**Girişler:*** Stüdyo Işığı**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*studio lighting,depth of field,studio light**Girişler:*** Yumuşak (Loş) Aydınlatma**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*soft lighting,soft light**Girişler:*** Doğal (Gün) Işığı**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*natural look,natural lighting,daylight,day lighting**Girişler:*** Neon Işıklar**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*Neon,neon lighting,neon lights**Girişler:*** Şehir Işıkları**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*city lights,city lighting**Girişler:*** Mum Işığı**Çıktılar:**(eğer yapay zeka aracı midjourney(stability.ai) seçildiyse)n*ultra-detailed eye-catching candle lighting,candle light
